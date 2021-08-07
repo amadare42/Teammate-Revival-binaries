@@ -2,17 +2,37 @@
 Survivors can revive their fallen colleagues, but it comes at the price of their own health. A skull totem marks where the player died. Stand within the circle to begin, but stay at your own risk :)
 
 ## To Do:
-* Add better indicator for how close the player is to revival
-* Allow an interaction to start reviving a player (rather than automatically starting when inside the circle.
+* Add better indicator for how close the player is to revival.
 * Add customizability / config
+* Fix bugs
 
 
 ## Change Notes:
+
+* 3.3.8
+    * Fixed bug that caused players to instantly respawn after their first revival.
+
+* 3.3.7
+    * Fixed stupid bug that made the whole mod do nothing and break.
+
+* 3.3.6
+    * Fixed possible incompatibility with drop in multiplayer
+    * Made more reliable
+
+* 3.3.5
+    * Fixed a bug that caused skulls to not spawn - not tested but pretty sure this will fix it
+
+* 3.3.4
+    * Fixed a bug that made the mod think the players hadn't died
+
+* 3.3.3
+    * Hopefully fixed a bug that caused a NRE on player death.
+
 * 3.3.2
     * Now when a player dies in midair the totem / skull will spawn at the closest ground location  (rather than midair).
     * Damage numbers now show on both client and server.
     * Lighting should now also sync to the clients as well.
-    * Fixed a bug where the mod didn't recognize if the player was revived by something other than this mod. 
+    * Fixed a bug where the mod didn't recognize if the player was revived by something other than this mod.
 
 * 3.1.0
     * Works now lol
