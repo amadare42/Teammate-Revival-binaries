@@ -1,0 +1,52 @@
+[DEBUG] [07.11.2021 22:47:22] Log Setup 
+
+[DEBUG] [07.11.2021 22:47:22] Loading assets... 
+
+[DEBUG] [07.11.2021 22:47:22] [TeammateRevive.Resources.AddedAssets.LoadSkullPrefab:45] called 
+
+[DEBUG] [07.11.2021 22:47:22] [TeammateRevive.Resources.ItemsAndBuffs.CreateDeathCurseHiddenItem:89] called 
+
+[DEBUG] [07.11.2021 22:47:22] [TeammateRevive.Resources.ItemsAndBuffs.CreateDeathCurseHiddenItem:99] done 
+
+[DEBUG] [07.11.2021 22:47:22] [TeammateRevive.Revive.RevivalTracker.Init:44] start 
+
+[DEBUG] [07.11.2021 22:47:22] Init ResurrectController 
+
+[DEBUG] [07.11.2021 22:47:22] [TeammateRevive.Revive.RevivalTracker.Init:53] end 
+
+[DEBUG] [07.11.2021 22:47:22] Setup Teammate Revival 
+
+[INFO] [07.11.2021 22:47:39] ItemStats integration: OK! Idx 26 
+
+[INFO] [07.11.2021 22:47:39] Better UI integration: OK! 
+
+[DEBUG] [07.11.2021 22:48:13] CMD: ; Msg: <color=#e5eefc><noparse>Sun</noparse>: <noparse>trv_god</noparse></color> 
+
+[DEBUG] [07.11.2021 22:48:16] [TeammateRevive.Revive.RevivalTracker.OnBuildDropTable:75] called 
+
+[INFO] [07.11.2021 22:48:16] Removing Charon's Obol from drop list 
+
+[INFO] [07.11.2021 22:48:16] Run started 
+
+[INFO] [07.11.2021 22:48:16] Received new rule values 
+
+[DEBUG] [07.11.2021 22:48:17] [TeammateRevive.Revive.Shrine.ShrineManager.hook_PopulateScene:34] 0 
+
+[DEBUG] [07.11.2021 22:48:17] Stage start: golemplains 
+
+[DEBUG] [07.11.2021 22:48:17] [TeammateRevive.Revive.RevivalTracker.RemoveReduceHpItem:338] called 
+
+[INFO] [07.11.2021 22:48:17] Removed reduce HP item for (Sun). Was 0. Now: 0 
+
+[DEBUG] [07.11.2021 22:48:17] Set local player body to 48 (48) 
+
+[INFO] [07.11.2021 22:48:17] Sun Setup 
+
+[INFO] [07.11.2021 22:48:17] All 1 Players Setup Successfully 
+
+[DEBUG] [07.11.2021 22:48:17] [TeammateRevive.Debug.Monitor.DebugMonitorPanelController.HUDOnAwake:60] DebugMonitor 
+
+[DEBUG] [07.11.2021 22:48:17] HUDOnAwake 
+
+[DEBUG] [07.11.2021 22:48:17] AttachProgressBar 
+
